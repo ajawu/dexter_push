@@ -1,0 +1,5 @@
+Guten Morgen, hier die Dokumentation für Frau Schneider, Zimmer zwölf.
+Der Blutdruck war heute 128 zu 82. Die Temperatur lag bei 36,8 Grad.
+Der Puls war 72 Schläge pro Minute und die Sauerstoffsättigung 97 Prozent.
+Frau Schneider hatte einen ruhigen Vormittag, hat gut gefrühstückt und keine
+Beschwerden geäußert.
