@@ -1,7 +1,6 @@
 """The only durable state in CareSync: the ``outbox`` table.
 
-A confirmed, carer-ratified entry is written here and nowhere else -- no event log, no
-in-progress drafts. The row, stamped with ``confirmed_by``, is the audit record. A
+A confirmed, carer-ratified entry is written here. The row, stamped with ``confirmed_by``, is the audit record. A
 stable ``dedupe_key`` with a ``UNIQUE`` constraint makes re-confirming the identical
 entry a no-op instead of a duplicate.
 """
